@@ -2,7 +2,8 @@
 - 👀 I’m interested in all mnml correct information 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Mlfrs, anonymous &harakternik's
-- 📫 How to reach me about i search you/mgc
+- 📫 How to reach me about i search you/mgc.
+- 
 
 <!---
 lev-sw/lev-sw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
